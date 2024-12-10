@@ -1,0 +1,35 @@
+*{
+    color: #344d67
+}
+
+.titulo{
+    /* color: #344d67; */
+}
+.fondo-blanco{
+    background-color: #ffffff78;
+}
+
+.containerHome {
+    background-color: #ffffffe6;
+    justify-self: center;
+    margin-top: 36px;
+    height: 600px;
+}
+h1{
+    color: #344d67;
+    font-size: 40px;
+    margin-top: 67px;
+    margin-bottom: 8px;
+    text-align: center!important;
+    line-height: 1.2;
+    font-family: Raleway,sans-serif;
+    justify-content: space-evenly;
+}
+h2{
+    margin-top: 1.5rem!important;
+    text-align: center!important;
+     margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-top: 24px;
+}
