@@ -1,0 +1,29 @@
+.subt-1{
+    display: flex;
+}
+ .form{
+    display: none;
+}
+.bi{
+    font-size: medium;
+}
+@media(min-width:720px){
+    .menu{
+        display: none ;
+    }
+    .subt-1{
+        display: block;
+    }
+    .form{
+        display: flex;
+    }
+} 
+/* .mobile-filters{
+    display: flex;
+} */
+.filter{
+    color: #344d67;
+    margin: 0%;
+    text-align: start !important;
+    padding: 18px;
+}

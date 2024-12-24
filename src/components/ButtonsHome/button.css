@@ -2,9 +2,9 @@
    
     background-color: #344d67;
     color: #6eccaf;
-    margin-right: 10px;
+    margin-right: 8px;
     margin-top: 30px;
-    padding: 15px;
+    padding: 7px;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 

@@ -1,3 +1,38 @@
 nav{
-    background-color: cadetblue;
+    background-color: #344d67;
 }
+.botoncito{
+    gap: 6px;
+    background-color:#6eccaf ;
+    color: #344d67;
+    margin-right: 8px;
+    margin-top: 10px;
+    padding: 7px;
+    font-size: 13px;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+ }
+ .botoncito:hover{
+    background-color: #344d67;
+    color: #6eccaf
+ }
+ .rick:hover{
+    text-decoration: none;
+    color: #6eccaf ;
+ }
+ .rick{
+    text-decoration: none;
+    color: #6eccaf;
+    padding: 0px;
+    font-size: 13px;
+    float: left;
+    margin-top: -20px !important    ;
+    margin-left: 20px !important;
+ }
+ .navbar{
+    padding: 20px;
+ }
+
+ @media (max-width: 800px){
+.botoncito {
+      width: 80px !important;
+   }}

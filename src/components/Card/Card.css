@@ -1,0 +1,53 @@
+.tarjeta {
+    background-color: #223142;
+    white-space: normal;
+    max-width: fit-content;  
+}
+
+.nombrePersonaje {
+  color: #6ECCAF;  
+  font-size: x-large;
+}  
+
+.botonKnowMore {
+  color: #223142;
+  background-color: #6ECCAF; 
+  border: none;
+  border-radius: 6%;
+  margin-bottom: 2px;
+}
+
+
+
+.btn-list{
+  color: #223142;
+  background-color: #6ECCAF;
+  
+ }  
+
+ .contenedor-item{
+  color: white;
+  background-color: #223142;  
+ }  
+
+.contenedor-item:hover{
+  background-color: #6ECCAF;  
+  color: #344D67;
+}
+
+ .h4-info{
+  font-size: small;
+  font-weight: 300;
+}  
+
+.p-info{
+  font-size: medium;
+  font-weight: 700;
+}  
+.equis{
+  position: relative;
+  margin-left: 80%;
+}
+.tarjeta{
+  width: max-content;
+}
