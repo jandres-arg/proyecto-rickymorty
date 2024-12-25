@@ -7,6 +7,17 @@
 .bi{
     font-size: medium;
 }
+.filtros{
+    display: inline-block;
+    margin: 0px, 50px !important;
+}
+/* @media(min-width:1920px){
+    .icono{
+        display: none!important;
+    }
+} */
+
+
 @media(min-width:720px){
     .menu{
         display: none ;

@@ -86,9 +86,9 @@ export default function Characters() {
         <div>
             <Navegation/>
 
-            <div className='menu filtros d-flex' onClick={()=>{setShow(!show)}}>
-                <h2 className='filter subt-1 '>Filters</h2>
-                <i className="bi bi-list subt-1"></i>
+            <div className='menu filtros d-flex flex-row collapse navbar-collapse justify-content-between' onClick={()=>{setShow(!show)}}>
+                <h2 className='filter subt-1'>Filters</h2>
+                <i className="icono bi bi-list subt-1"></i>
             </div>
             { show == false? "":
                 <form className={show? 'form row gap-2 p-4 gap-3 mx-auto':'row flex-column gap-2 p-3  align-items-center'}>
